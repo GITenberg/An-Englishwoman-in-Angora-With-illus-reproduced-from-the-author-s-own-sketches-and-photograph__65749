@@ -1,11 +1,16 @@
 _repo: An-Englishwoman-in-Angora-With-illus-reproduced-from-the-author-s-own-sketches-and-photograph__65749
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65749-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellison, Grace Mary
     gutenberg_agent_id: '53487'
     url: http://www.gutenberg.org/2009/agents/53487
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65749#An-Englishwoman-in-Angora-With-illus-reproduced-from-the-author-s-own-sketches-and-photograph_
 gutenberg_issued: '2021-07-03'
 gutenberg_type: Text
 identifiers:
